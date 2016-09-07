@@ -240,25 +240,25 @@ body .ui-tooltip { border-width:2px; }
 .ui-widget { font-family: Segoe UI,Arial,sans-serif; font-size: 1.1em; }
 .ui-widget .ui-widget { font-size: 1em; }
 .ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Segoe UI,Arial,sans-serif; font-size: 1em; }
-.ui-widget-content { border: 1px solid #8e846b; background: #feeebd url(images/ui-bg_highlight-soft_100_feeebd_1x100.png) 50% top repeat-x; color: #383838; }
+.ui-widget-content { border: 1px solid #8e846b; background: #feeebd url(https://2.bp.blogspot.com/-7JUpyfEXYHA/V8-x5kXr9xI/AAAAAAAADiQ/O3UVmxEHQeQx9eK5LJUQ39BfoGdsmQDiwCLcB/s1600/ui-bg_highlight-soft_100_feeebd_1x100.png) 50% top repeat-x; color: #383838; }
 .ui-widget-content a { color: #383838; }
-.ui-widget-header { border: 1px solid #494437; background: #817865 url(images/ui-bg_gloss-wave_45_817865_500x100.png) 50% 50% repeat-x; color: #ffffff; font-weight: bold; }
+.ui-widget-header { border: 1px solid #494437; background: #817865 url(https://3.bp.blogspot.com/-cG9AKsaq1as/V8-yJaPgxeI/AAAAAAAADiU/F3JyQOkW6nkLBP8cS8GJQKfkuqOuaejYACLcB/s320/ui-bg_gloss-wave_45_817865_500x100.png) 50% 50% repeat-x; color: #ffffff; font-weight: bold; }
 .ui-widget-header a { color: #ffffff; }
 
 /* Interaction states
 ----------------------------------*/
-.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid #d19405; background: #fece2f url(images/ui-bg_gloss-wave_60_fece2f_500x100.png) 50% 50% repeat-x; font-weight: bold; color: #4c3000; }
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid #d19405; background: #fece2f url(https://3.bp.blogspot.com/-XKPc85sLprA/V8-yZ45Q0eI/AAAAAAAADiY/rf7VSDEjDXctpF1H5XcECJN670xsNXJpgCLcB/s320/ui-bg_gloss-wave_60_fece2f_500x100.pn) 50% 50% repeat-x; font-weight: bold; color: #4c3000; }
 .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #4c3000; text-decoration: none; }
-.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid #a45b13; background: #ffdd57 url(images/ui-bg_gloss-wave_70_ffdd57_500x100.png) 50% 50% repeat-x; font-weight: bold; color: #381f00; }
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid #a45b13; background: #ffdd57 url(https://3.bp.blogspot.com/-JvjVT_gzTKo/V8-ykinbMkI/AAAAAAAADic/GN4iPOUy0iIvIlReo-Gw_Kzqyi57b5pxgCLcB/s320/ui-bg_gloss-wave_70_ffdd57_500x100.png) 50% 50% repeat-x; font-weight: bold; color: #381f00; }
 .ui-state-hover a, .ui-state-hover a:hover { color: #381f00; text-decoration: none; }
-.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid #655e4e; background: #ffffff url(images/ui-bg_inset-soft_30_ffffff_1x100.png) 50% 50% repeat-x; font-weight: bold; color: #0074c7; }
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid #655e4e; background: #ffffff url(https://2.bp.blogspot.com/-hV8rXkCemXA/V8-yykJErTI/AAAAAAAADig/gtJPkThPlmsQMyPsFwfHsoeOFpiAtXrywCLcB/s1600/ui-bg_inset-soft_30_ffffff_1x100.png) 50% 50% repeat-x; font-weight: bold; color: #0074c7; }
 .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: #0074c7; text-decoration: none; }
 
 /* Interaction Cues
 ----------------------------------*/
-.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight  {border: 1px solid #eeb420; background: #fff9e5 url(images/ui-bg_gloss-wave_90_fff9e5_500x100.png) 50% top repeat-x; color: #1f1f1f; }
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight  {border: 1px solid #eeb420; background: #fff9e5 url(https://2.bp.blogspot.com/-gc4IKSzAT3k/V8-y-59W3NI/AAAAAAAADik/FnJmgrlBaGIaCtvvHC4Kfm7TMVA8Ot3QACLcB/s320/ui-bg_gloss-wave_90_fff9e5_500x100.pn) 50% top repeat-x; color: #1f1f1f; }
 .ui-state-highlight a, .ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a { color: #1f1f1f; }
-.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error {border: 1px solid #ffb73d; background: #d34d17 url(images/ui-bg_diagonals-medium_20_d34d17_40x40.png) 50% 50% repeat; color: #ffffff; }
+.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error {border: 1px solid #ffb73d; background: #d34d17 url(https://3.bp.blogspot.com/-dswHvmGMHf4/V8-zJOvBCKI/AAAAAAAADio/Pd5jWSTgxh4CdZH9ul652CGlRbAerXMKgCLcB/s1600/ui-bg_diagonals-medium_20_d34d17_40x40.png) 50% 50% repeat; color: #ffffff; }
 .ui-state-error a, .ui-widget-content .ui-state-error a, .ui-widget-header .ui-state-error a { color: #ffffff; }
 .ui-state-error-text, .ui-widget-content .ui-state-error-text, .ui-widget-header .ui-state-error-text { color: #ffffff; }
 .ui-priority-primary, .ui-widget-content .ui-priority-primary, .ui-widget-header .ui-priority-primary { font-weight: bold; }
