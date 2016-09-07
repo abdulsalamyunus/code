@@ -185,23 +185,23 @@ table.display td.center {
  */
 
 .sorting_asc {
-	background: url('../images/sort_asc.png') no-repeat center right;
+	background: url('"https://4.bp.blogspot.com/-GS3xhagc2Hs/V8-wCXGKUyI/AAAAAAAADh8/40KpRYHbVwI5vQJdQHVZPMUdCcIY14U6wCLcB/s1600/sort_asc.png') no-repeat center right;
 }
 
 .sorting_desc {
-	background: url('../images/sort_desc.png') no-repeat center right;
+	background: url('https://3.bp.blogspot.com/-w_crAFiSeZY/V8-wC_VDQsI/AAAAAAAADiA/ihashTj-B4g991U-VWDxBppMhhtLB-ERACLcB/s1600/sort_desc.png') no-repeat center right;
 }
 
 .sorting {
-	background: url('../images/sort_both.png') no-repeat center right;
+	background: url('https://3.bp.blogspot.com/-QpNhP36NtZM/V8-wCVYR6YI/AAAAAAAADh4/d17uZbKJY3UwOWdpZGOLFIFzwvKXb_N0QCLcB/s1600/sort_both.png') no-repeat center right;
 }
 
 .sorting_asc_disabled {
-	background: url('../images/sort_asc_disabled.png') no-repeat center right;
+	background: url('https://4.bp.blogspot.com/-ACnBWHFapg8/V8-wCaG_sEI/AAAAAAAADh0/P0TQr25KodczYVzPup2s2tD4NhM-SDNvgCLcB/s1600/sort_asc_disabled.png') no-repeat center right;
 }
 
 .sorting_desc_disabled {
-	background: url('../images/sort_desc_disabled.png') no-repeat center right;
+	background: url('https://2.bp.blogspot.com/-xt4_yYJ3tYY/V8-wC3rJUvI/AAAAAAAADiE/OGzkD9SWm_AQhSROwbqExB9IK51bg1R_QCLcB/s1600/sort_desc_disabled.png') no-repeat center right;
 }
 
 
