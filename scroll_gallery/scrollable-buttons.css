@@ -6,7 +6,7 @@
 
 /* prev, next, prevPage and nextPage buttons */
 a.browse {
-	background:url(https://1.bp.blogspot.com/-fPU1XiPkzjw/V9EcsIiiUHI/AAAAAAAADi4/Wgns8gk_l58_WGHWmtUbriTkaP6DGo5UgCLcB/s1600/hori_large.png) no-repeat;
+	background:url("https://1.bp.blogspot.com/-fPU1XiPkzjw/V9EcsIiiUHI/AAAAAAAADi4/Wgns8gk_l58_WGHWmtUbriTkaP6DGo5UgCLcB/s1600/hori_large.png") no-repeat;
 	display:block;
 	width:30px;
 	height:30px;
@@ -29,7 +29,7 @@ a.left:active  	{ background-position:-60px 0; }
 
 /* up and down */
 a.up, a.down		{ 
-	background:url(https://2.bp.blogspot.com/-SgPOXkyUJl8/V9Ec8WFHPgI/AAAAAAAADi8/gUL5YB7BX9U8ZCCwYYO-BSSPj3E77BwYgCLcB/s1600/vert_large.png) no-repeat; 
+	background:url("https://2.bp.blogspot.com/-SgPOXkyUJl8/V9Ec8WFHPgI/AAAAAAAADi8/gUL5YB7BX9U8ZCCwYYO-BSSPj3E77BwYgCLcB/s1600/vert_large.png") no-repeat; 
 	float: none;
 	margin: 10px 50px;
 }
